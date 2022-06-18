@@ -1,0 +1,42 @@
+.btn-wrapper button{
+    background-color: red;
+    border: 0px;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+.img-wwrapper img{
+    width: 100px;
+    margin-top: -10px;
+
+}
+.cart-wrapper{
+    height: 100px;
+    width: 500px;
+    border: 1px solid #ccc;
+    margin-left: -10px;
+}
+.item{
+/* float: left; */
+display: inline-block;
+width: 120px;
+padding: 20px;
+height: 70px;
+}
+
+
+.add-to-cart{
+    height: 10%;
+    width: 10%;
+    background-color: aqua;
+    border: 1px solid crimson;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 1;
+    padding: 7px;
+    border-radius: 50%;
+    
+}
